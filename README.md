@@ -3,7 +3,7 @@ This project presents an end-to-end data analysis of an EdTech platform using Po
 
 The dataset consists of multiple attributes such as course categories, skills, instructors, subtitles, and viewership metrics.
 
-# 🎯 Objectives
+### 🎯 Objectives
 Identify most popular course categories
 Analyze in-demand skills
 Evaluate top instructors based on ratings
