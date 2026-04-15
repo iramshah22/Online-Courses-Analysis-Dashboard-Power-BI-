@@ -3,14 +3,14 @@ This project presents an end-to-end data analysis of an EdTech platform using Po
 
 The dataset consists of multiple attributes such as course categories, skills, instructors, subtitles, and viewership metrics.
 
-### 🎯 Objectives
+#### 🎯 Objectives
 Identify most popular course categories
 Analyze in-demand skills
 Evaluate top instructors based on ratings
 Understand impact of subtitles on engagement
 Explore viewership trends based on lecture duration
 
-# 🛠️ Tools & Technologies
+#### 🛠️ Tools & Technologies
 Power BI
 Power Query (M Language)
 DAX (Data Analysis Expressions)
@@ -24,7 +24,7 @@ Created custom columns for:
 Skills count
 Language count
 
-# 📈 Key Features & Visualizations
+#### 📈 Key Features & Visualizations
 1. Course Popularity
 Compared course types (Courses, Specializations, etc.)
 Identified most consumed formats
@@ -46,7 +46,7 @@ Identified top instructors based on ratings
 7. Lecture Duration vs Views
 Found optimal duration range for maximum engagement
 
-# ⚡ Advanced Features
+#### ⚡ Advanced Features
 - Dynamic Slicers for filtering data
 - Drill-down functionality for deeper insights
 - Conditional DAX Measures (showing values only for top categories)
